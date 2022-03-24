@@ -1,2 +1,2 @@
 # py-rpc
-基于 Python 对 rpc 的简单探索。
+基于 Python 实现的多种模型的 RPC，用来练手学习。
